@@ -22,7 +22,7 @@ description: >-
   An opinionated blog about clean software development, backed by science.
 
 # Fill in the protocol & hostname for your site.
-url: "https://phoenox.github.io"
+url: "https://phoenox.github.io/that-clean-development-blog"
 
 github:
   username: phoenox
@@ -59,7 +59,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/that-clean-development-blog"
 
 # ------------ The following options are not recommended to be modified ------------------
 
